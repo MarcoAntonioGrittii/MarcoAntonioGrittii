@@ -1,5 +1,5 @@
 # Opa! 🤙🏼
-Meu nome é **Marco** e sou um entusiasta da programação! Estou começando minha jornada e sempre buscando evoluir e adquirir novos conhecimentos para, futuramente, entrar no mercado de trabalho. 
+Meu nome é **Marco** e sou um novato no mundo da programação! Estou sempre buscando evoluir e adquirir novos conhecimentos para, futuramente, entrar no mercado de trabalho. 
 
 ---
 
